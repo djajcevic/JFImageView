@@ -1,0 +1,1 @@
+pod 'JFDownload', :git => 'https://github.com/jfwork/JFDownload'
