@@ -38,6 +38,7 @@
 		89EF3A19301B4313A7F95D23 /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
 		B3B8D0751D8BAA197A1B8181 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		B3B8D2413E053850DB04FCFA /* JFAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JFAppDelegate.m; sourceTree = "<group>"; };
+		B3B8D46180505264148F8FD4 /* JFImageView.podspec */ = {isa = PBXFileReference; lastKnownFileType = file.podspec; path = JFImageView.podspec; sourceTree = "<group>"; };
 		B3B8D50B12CA537E726F4A16 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		B3B8D669FCE39DE476C4031A /* JFImageViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JFImageViewTests.m; sourceTree = "<group>"; };
 		B3B8D6A9540734F6A15D2C40 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
@@ -119,6 +120,7 @@
 				B3B8D1F831E414349E937D7A /* JFImageView */,
 				B3B8D97B855F0B1B55BA2BF3 /* JFImageViewTests */,
 				89EF3A19301B4313A7F95D23 /* Pods.xcconfig */,
+				B3B8D46180505264148F8FD4 /* JFImageView.podspec */,
 			);
 			sourceTree = "<group>";
 		};
