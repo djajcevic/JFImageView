@@ -35,7 +35,7 @@ Pod::Spec.new do |s|
   s.exclude_files = 'JFImageView/Classes/Exclude'
 
   # ――― Project Linking ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  s.frameworks = 'Foundation', 'UIKit', 'CFNetwork'
+  s.frameworks = 'Foundation', 'UIKit'
 
   s.dependency 'JFDownload', '0.0.2'
 
